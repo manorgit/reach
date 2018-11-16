@@ -1,10 +1,10 @@
 {
-  "alias": ["zeit/mano"]
-  {
+ 
+  
   "version": 2,
   "builds": [
     { "src": "package.json", "use": "@now/static-build" }
    
   ]
-}
+
 }
