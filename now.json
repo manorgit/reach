@@ -1,3 +1,10 @@
 {
   "alias": ["zeit/mano"]
+  {
+  "version": 2,
+  "builds": [
+    { "src": "dream-ui/package.json", "use": "@now/static-build" }
+   
+  ]
+}
 }
