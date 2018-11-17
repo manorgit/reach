@@ -14,7 +14,7 @@ class App extends Component {
       Coming soon
       </p>
          
-          </a>
+          
         </header>
       </div>
     );
