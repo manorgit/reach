@@ -8,7 +8,7 @@ class App extends Component {
         <header className="App-header">
          
           <p>
-          Reach Advertising Agency.. Here we go
+          Reach Advertising Agency.. Here we go to check
           </p>
       <p>
       Coming soon
