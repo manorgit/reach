@@ -8,7 +8,7 @@ class App extends Component {
         <header className="App-header">
          
           <p>
-          Reach Advertising Agency.. Here we go to check
+          Reach Digital - Developers JANI, UTHRA, MOUNIKA, MANO
           </p>
       <p>
       Coming soon
